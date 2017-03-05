@@ -1,0 +1,16 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: voting
+    description: A blockchain based electronic voting system
+    github: https://github.com/CPSSD/voting
+
+  - icon: fa fa-github
+    name: MDFS
+    description: A massively distributed hierarchical file-system
+    github: https://github.com/CPSSD/MDFS
+
+  - icon: fa fa-github
+    name: linux-foo
+    description: A collection of my Linux scripts and programs to make life easier
+    github: https://github.com/thewalla07/linux-foo

@@ -1,0 +1,17 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+        {{ partial "header" . }}
+        <div class="container">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="blogpost">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>
