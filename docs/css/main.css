@@ -1,7 +1,9 @@
 /* Main page with stikky-footer */
 html, body {
   height: 100%;
-  background-color: #fff;
+  max-width: 100%;
+overflow-x: hidden;
+  background-color: #eee;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27A822;
@@ -9,7 +11,7 @@ html, body {
 
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -23,6 +25,8 @@ html, body {
   margin-bottom: 10px;
 }
 .navbar-default {
+    padding-left: 20px;
+    padding-right: 20px;
   background-color: #ffffff;
   border-color: #ffffff;
 }
@@ -86,6 +90,7 @@ html, body {
   width: auto;
   max-width: 800px;
   text-align: center;
+  padding: 0px;
 }
 .container .text-muted {
   margin: 20px 0;
@@ -96,10 +101,9 @@ html, body {
 .container a:hover {
   color: #267723;
 }
-.img-responsive {
- display: block;
+.img-circle {
  height: auto;
- max-width: 100%;
+ max-width: 40%;
 }
 .panel-default h4 {
   text-align: left;
@@ -122,9 +126,11 @@ html, body {
 }
 .panel{
   border-style: none;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .panel-body {
-  padding-top: -10px;
+  padding-top: 0px;
   text-align: left;
 }
 .social-links {
@@ -189,5 +195,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/

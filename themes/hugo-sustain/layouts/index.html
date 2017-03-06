@@ -4,6 +4,7 @@
       {{ partial "header" . }}
       <section id="about">
         <div class="container">
+            <div class="panel">
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
@@ -16,6 +17,7 @@
         {{ partial "social.html" . }}
         </div>
       </section>
+  </div>
     </div>
     {{ partial "footer" . }}
   </body>

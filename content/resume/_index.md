@@ -60,23 +60,23 @@ Extensive time spent working in Arch Linux (preferred), ChromeOS (with chroot ja
 #### *Sep 2013 – Present (2017 Completion)*
 I am currently on track to earning a First Class Honours in my degree. Below is an excerpt for each year and a link to the digital transcript of results.
 ##### **1st year:** ***[(view transcript)](https://goo.gl/a883a1)***
-    Computer Programming I          - 97
-    Computer Programming II         - 88
+    Computer Programming I  - 97
+    Computer Programming II - 88
 ##### **2nd year:** ***[(view transcript)](https://goo.gl/YNwxXc)***
-    OO Design and Implementation    - 78
-    Data Structures and Algorithms  - 83
-    Logic                           - 77
+    OO Design and Implementation   - 78
+    Data Structures and Algorithms - 83
+    Logic                          - 77
 ##### **3rd year:** ***[(view transcript)](https://goo.gl/H3Xpl2)***
-    IT Architecture (IBM)           - 80
-    3rd Year Project                - 76
+    IT Architecture (IBM) - 80
+    3rd Year Project      - 76
 
 ### **Leaving Certificate (505 Points),**  ***Coláiste Éamann Rís, Callan, Kilkenny***
 #### *2007 – 2013*
 My choice modules for Leaving Cert included:
 
-    Physics and Chemistry (joint)   - B1
-    Art                             - B1
-    Economics                       - B3
-    French                          - B3
+    Physics and Chemistry (joint) - B1
+    Art                           - B1
+    Economics                     - B3
+    French                        - B3
 
 All of my subjects were taken at Higher Level.  I also taught myself Applied Mathematics in my own time in the second half of 6th year as I wanted to have more science education; It was not a subject taught in my school at the time.
